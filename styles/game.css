@@ -374,6 +374,9 @@ margin: 20px 212px 100px 100px;
         flex-wrap: wrap;
         
     }
+    .play-instantly{
+        flex-direction: column;
+    }
     
 
 }
